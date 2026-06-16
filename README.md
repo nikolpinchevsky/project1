@@ -18,12 +18,12 @@ This is an iOS card game application built with Swift, UIKit and Storyboard.
 
 <p align="center">
   <img src="screenshots/main1.png" width="220">
-  <img src="screenshots/main2.png" width="220">
+  <img src="screenshots/game-screen.png" width="220">
+  <img src="screenshots/result-screen.png" width="220">
 </p>
 
 <p align="center">
-  <img src="screenshots/game-screen.png" width="220">
-  <img src="screenshots/result-screen.png" width="220">
+  <img src="screenshots/main2.png" width="700">
 </p>
 
 ## Demo Video
