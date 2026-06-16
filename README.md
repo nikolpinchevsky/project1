@@ -28,9 +28,9 @@ This is an iOS card game application built with Swift, UIKit and Storyboard.
 
 ## Demo Video
 
-Add demo video link here:
+## Demo Video
 
-[Demo Video](video-link-here)
+🎥 [Watch Demo Video](https://github.com/nikolpinchevsky/IOSproject/blob/main/video/My%20Movie.mp4)
 
 ## How to Run
 
